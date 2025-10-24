@@ -9,6 +9,9 @@ public class Print {
 		
 		//Adding new line 
 		System.out.println("New line added in the feature B branch");
+		
+		//Adding second new line
+		System.out.println("NEw line is added in the feature A branch");
 
 	}
 }
