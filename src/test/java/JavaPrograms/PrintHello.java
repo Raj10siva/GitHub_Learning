@@ -8,8 +8,6 @@ public class PrintHello {
 		
 		//Date - 23/10/2025
 		System.out.println("Hello Feature 1 is added!!!");
-		
-		//Restore code is added
 
 	}
 
