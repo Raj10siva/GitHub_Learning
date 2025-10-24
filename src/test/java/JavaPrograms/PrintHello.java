@@ -10,7 +10,7 @@ public class PrintHello {
 		System.out.println("Feature 1 is added");
 		
 		//Date - 24/10/2025
-		System.out.println("Feature 2 is added");
+		System.out.println("Hello Main from feature 2 branch");
 	}
 
 }
