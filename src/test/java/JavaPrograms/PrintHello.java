@@ -8,6 +8,9 @@ public class PrintHello {
 		
 		//Date - 23/10/2025
 		System.out.println("Hello Feature 1 is added!!!");
+		
+		//Date - 24/10/2025
+		System.out.println("Adding new code in Feature 1");
 
 	}
 
