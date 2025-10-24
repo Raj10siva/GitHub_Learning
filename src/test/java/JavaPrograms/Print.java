@@ -23,5 +23,13 @@ public class Print {
 		 * 5. Enter the valid otp
 		 * 6. Check you logged in your whatsapp account
 		 */
+		
+		/**Negative test case
+		 * 1. Install the whatsapp
+		 * 2. Open the whatsapp
+		 * 3. Enter your mobile number
+		 * 4. Click submit
+		 * 5. Enter the invalid otp
+		 * 6. Check "invalid otp, please enter valid otp!" message is showing or not*/
 	}
 }
